@@ -13,7 +13,9 @@
   </a>
 </div>
 
+<div id="header" align="center">
 <img src="https://komarev.com/ghpvc/?username=your-github-Vipperswag&style=flat-square&color=blue" alt=""/>
+</div>
 
 <h1>
   hey there
