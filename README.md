@@ -5,7 +5,7 @@
   <a href="https://vk.com/blasph3m3r">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="Vk Badge"/>
   </a>
-  <a href="your-linkedin-URL">
+  <a href="https://tiktok.com/@p.a.l.a.c.h_">
     <img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=TikTok&logoColor=purple" alt="TikTok Badge"/>
   </a>
   <a href="https://t.me/d3ad_f3ar">
