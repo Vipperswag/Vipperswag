@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://github.com/Vipperswag/Algoritmizatsia_mironov.d.r/blob/main/gang.gif" width="1000"/>
 </div>
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://vk.com/blasph3m3r">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="Vk Badge"/>
   </a>
@@ -52,5 +52,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-Vipperswag&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/Vipperswag/github-readme-stats)
