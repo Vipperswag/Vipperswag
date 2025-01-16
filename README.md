@@ -30,7 +30,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :seedling: Exploring Technical Content Writing.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Denis-blue?style=flat&logo=Telegram&logoColor=white)]("https://t.me/d3ad_f3ar")
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Denis-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/d3ad_f3ar)
 
   <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
