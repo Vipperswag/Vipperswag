@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/Vipperswag/Algoritmizatsia_mironov.d.r/blob/main/gang.gif" width="500"/>
+  <img src="https://github.com/Vipperswag/Algoritmizatsia_mironov.d.r/blob/main/gang.gif" width="1000"/>
 </div>
 
 <div id="badges">
