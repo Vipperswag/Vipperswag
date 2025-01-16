@@ -4,7 +4,7 @@
 
 <div id="badges">
   <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/TikTok-blue?style=for-the-badge&logo=TikTok&logoColor=purple" alt="TikTok Badge"/>
+    <img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=TikTok&logoColor=purple" alt="TikTok Badge"/>
   </a>
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="Youtube Badge"/>
