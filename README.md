@@ -8,7 +8,7 @@
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=TikTok&logoColor=purple" alt="TikTok Badge"/>
   </a>
-  <a href="t.me/d3ad_f3ar">
+  <a href=""https://t.me/d3ad_f3ar">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
