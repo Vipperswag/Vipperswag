@@ -1,7 +1,6 @@
 <div id="header" align="center">
   <img src="https://github.com/Vipperswag/Algoritmizatsia_mironov.d.r/blob/main/gang.gif" width="1000"/>
 </div>
-
 <div id="badges">
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="Vk Badge"/>
