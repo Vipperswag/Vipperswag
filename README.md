@@ -23,3 +23,5 @@
 <div align="center">
   <img src="https://github.com/Vipperswag/Algoritmizatsia_mironov.d.r/blob/main/boba1.gif" width="1000" height="300"/>
 </div>
+
+### :woman_technologist: About Me :
