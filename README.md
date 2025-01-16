@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/Vipperswag/Algoritmizatsia_mironov.d.r/blob/main/gang.gif" width="1000"/>
+  <img src="https://github.com/Vipperswag/Algoritmizatsia_mironov.d.r/blob/main/gang.gif" width="500"/>
 </div>
 <div id="badges" align="center">
   <a href="https://vk.com/blasph3m3r">
